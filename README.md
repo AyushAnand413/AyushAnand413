@@ -1,21 +1,119 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ayush%20Kumar%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;RAG+Systems+Builder;Competitive+Programmer" />
+</p>
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building AI-powered applications, including Retrieval-Augmented Generation (RAG) assistants and machine learning–based backend systems.<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning projects, AI-based applications, and open-source software development.<br><br>🤝 I’m looking for help with<br><br>Improving my understanding of advanced Machine Learning concepts and building scalable real-world AI systems.<br><br>🌱 I’m currently learning<br><br>Python, C++, Data Structures and Algorithms, NLP and Deep Learning.<br><br>💬 Ask me about<br><br>Python, Data Structures and Algorithms, Machine Learning basics, and Competitive Programming.<br><br>⚡ Fun fact<br><br>I have solved 500+ coding problems and built real-world AI projects like an offline RAG assistant.
 
+🔭 **Currently working on**  
+Building AI-powered applications including **RAG assistants** and ML backend systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-anand-287261337/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkumaranand413@gmail.com) 
+👯 **Looking to collaborate on**  
+Machine Learning, AI Applications, and Open Source.
+
+🤝 **Looking for help with**  
+Advanced ML and scalable AI systems.
+
+🌱 **Currently learning**  
+Python, C++, DSA, NLP, Deep Learning.
+
+💬 **Ask me about**  
+Python, Machine Learning, DSA, Competitive Programming.
+
+⚡ **Fun fact**  
+Solved **500+ coding problems** and built **RAG assistant** and many more projects.
+
+---
+
+# 🌐 Socials:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayush-kumar-anand-287261337/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushkumaranand413@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAnand413&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AyushAnand413&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushAnand413&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAnand413&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
+<img src="https://streak-stats.demolab.com?user=AyushAnand413&theme=tokyonight&hide_border=true" height="170"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushAnand413&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ From <a href="https://github.com/AyushAnand413">Ayush Kumar Anand</a>
+
+</p>
