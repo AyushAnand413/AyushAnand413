@@ -74,24 +74,6 @@ Solved **500+ coding problems** and built **RAG assistant** and many more projec
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushAnand413&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=AyushAnand413&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushAnand413&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # ✍️ Dev Quote
 
 <p align="center">
